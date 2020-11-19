@@ -3,6 +3,8 @@ import Head from 'next/head'
 
 const Home = () => (
   
+  
+  <div>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -347,10 +349,6 @@ __s={"js":{"146":"/static/bundles/metro/PasswordEncryptionLogger.js/a58b4e7f36ca
   })
 }());
 </script>
-  <div>
-    <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
- 
-    <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
     <style jsx>{`
       :global(html,body) {
         margin: 0;
